@@ -1,0 +1,6 @@
+@ReponsitoryAndUnitOfWork_HostAddress = http://localhost:5264
+
+GET {{ReponsitoryAndUnitOfWork_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
